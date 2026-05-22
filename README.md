@@ -23,5 +23,5 @@ quarto render analisis.qmd --to html --output-dir renders
 quarto render analisis.qmd --to pdf  --output-dir renders
 ```
 
-## eL pdf y HTML renderizado esta en la carpeta:
+## El pdf y HTML renderizado esta en la carpeta:
 /renders
