@@ -1,0 +1,13 @@
+arboles_crudos.txt
+arboles_limpios.csv
+arboles_limpios_r.csv
+/.quarto/
+*_files/
+*.aux
+*.log
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.DS_Store
+Thumbs.db
