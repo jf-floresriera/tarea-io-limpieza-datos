@@ -1,4 +1,4 @@
-# Tarea 0.11 – Lectura Robusta de Archivos y Limpieza de Datos
+# Tarea 11 – Lectura Robusta de Archivos y Limpieza de Datos
 
 ## Descripcion
 
@@ -28,7 +28,7 @@ quarto render analisis.qmd --to pdf  --output-dir renders
 ```bash
 git init
 git add .
-git commit -m "Tarea 0.11 completa"
+git commit -m "Tarea 11 completa"
 git branch -M main
 git remote add origin https://github.com/TU_USUARIO/TU_REPO.git
 git push -u origin main
